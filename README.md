@@ -35,7 +35,7 @@ ___
 
 | Name | Description |
 | :--- | :--- |
-| [`twre-graphql`](https://github.com/LeCodingWolfie/twre-graphql) | Twitch's undocumented GraphQL API, now documented (WIP). |
+| [`twre-graphql`](https://github.com/LeCodingWolfie/twre-graphql) | Twitch's undocumented GraphQL API, now documented, and openly available (WIP). |
 | [`twre-downloader`](https://github.com/LeCodingWolfie/twre) | A blazing-fast Twitch VOD and live stream video and chat downloader and renderer (*to be*). |
 | [`twre-frontend`](https://github.com/LeCodingWolfie/twre) | An exceptionally lightweight alternative, privacy-respecting front-end for Twitch (*to be*). |
 
